@@ -4,5 +4,5 @@
 
 ## Augmented Reality
 
-- [Pose estimation for planar target]: http://nghiaho.com/?page_id=576
-- [NAR (NGHIA’S AUGMENTED REALITY)]: http://nghiaho.com/?page_id=1273
+- [Pose estimation for planar target](http://nghiaho.com/?page_id=576)
+- [NAR (NGHIA’S AUGMENTED REALITY)](http://nghiaho.com/?page_id=1273)
