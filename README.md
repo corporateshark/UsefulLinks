@@ -9,3 +9,7 @@
 
 - [Pose estimation for planar target](http://nghiaho.com/?page_id=576)
 - [NAR (NGHIA’S AUGMENTED REALITY)](http://nghiaho.com/?page_id=1273)
+
+## GLSL Tricks & Shaders
+
+- [Various GLSL frustum culling routines](https://github.com/jdupuy/opengl-framework/blob/master/demo-isubd-terrain/shaders/fcull.glsl)
